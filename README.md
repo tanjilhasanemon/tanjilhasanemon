@@ -42,11 +42,11 @@ I believe in **learning by doing**, tackling problems head-on, and constantly pu
 
 ## 🌟 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ttaannjjiill&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttaannjjiill&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanjilhasanemon&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanjilhasanemon&theme=radical" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttaannjjiill&layout=compact&theme=radical" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjilhasanemon&layout=compact&theme=radical" width="50%" />
 </p>
 
 ---
