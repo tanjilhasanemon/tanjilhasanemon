@@ -79,4 +79,21 @@ As I approach the end of my degree, I am setting my sights on the data-heavy sid
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="
+  <a href="https://www.linkedin.com/in/tanjil-sarker-emon/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tanjilsarkeremon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.facebook.com/tanjilhasanem0n" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Thanks for stopping by! I’m always open to collaboration, learning, and meaningful conversations.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer Banner" />
+</p>
