@@ -33,32 +33,6 @@ I'm currently studying **Computer Science**, with a minor in **Big Data and High
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 </p>
 
-<br>
-
-### 🚀 What I'm Up To
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔭 Current Projects</h4>
-      <ul>
-        <li>🏗️ <b>Online Learning Platform:</b> Architecting and developing a responsive platform with full database integration.</li>
-        <li>🧮 <b>Numerical Methods:</b> Exploring vector mathematics and implementing algorithms for academic coursework.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧠 Learning Focus</h4>
-      <ul>
-        <li>🤖 Foundational <b>Machine Learning</b> concepts and algorithms.</li>
-        <li>⚡ <b>High Performance Computing (HPC)</b> architecture.</li>
-        <li>🌐 <b>Full-stack web development</b> fundamentals for data-driven applications.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 ### 🎯 Future Goals
 As I approach the end of my degree, I am setting my sights on the data-heavy side of the tech industry. I aim for a career in **Machine Learning, Artificial Intelligence, and Big Data**, leveraging my minor to help build intelligent, scalable systems.
 
